@@ -1,0 +1,22 @@
+h1{
+    text-align: center;
+    color: grey;
+}
+
+.container-fluid{
+    padding: 0 15% 0;
+}
+
+mat-card{
+    border: 1px;
+    background-color: white;
+}
+
+mat-checkbox{
+    margin-right: 2%;
+}
+
+.delete{
+    font-weight: bold;
+    text-align: right;
+}
